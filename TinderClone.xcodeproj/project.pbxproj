@@ -105,6 +105,7 @@
 				B940C28B2822CA37007C6F86 /* Sections */,
 				B940C25F2822A213007C6F86 /* TinderCloneApp.swift */,
 				B940C2612822A213007C6F86 /* ContentView.swift */,
+				B940C2902822CB24007C6F86 /* Card.swift */,
 				B940C2632822A213007C6F86 /* Assets.xcassets */,
 				B940C2652822A213007C6F86 /* Preview Content */,
 			);
@@ -142,7 +143,6 @@
 				B940C2892822C994007C6F86 /* CardsSection.swift */,
 				B940C28C2822CA5C007C6F86 /* FooterSection.swift */,
 				B940C28E2822CA6A007C6F86 /* NavigationSection.swift */,
-				B940C2902822CB24007C6F86 /* Card.swift */,
 			);
 			path = Sections;
 			sourceTree = "<group>";
@@ -460,7 +460,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -489,7 +489,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
